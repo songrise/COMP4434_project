@@ -17,4 +17,4 @@ keras 2.4.3
 - prediction: the two csv predictions (19079662D_taskX.csv), for task2, we predict 10204 teleplays
 - scripts: python codes, to avoid dependency issues, some .ipynb are also provided for some codes.
 
-[presentation video](www.bilibili.com/video/BV1254y157b8)
+[presentation video](https://www.bilibili.com/video/BV1254y157b8)
